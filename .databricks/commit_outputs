@@ -14,4 +14,4 @@
 # Uncomment the following pattern to include output for all notebooks
 # **
  
-AI_FORECAST EXAMPLES.ipynb
+!AI_FORECAST EXAMPLES.ipynb
